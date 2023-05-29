@@ -1,5 +1,7 @@
 # Spilling A GitHub Repository's Secrets Using GitLeaks
+
 Disclaimer: The GitHub Repository Used As An Example Was Part Of A CTF Challenge And No Real Secrets Or Credentials Are Shown.
+
 Disclaimer: This Is Merely For Educational Purposes Or For Solving CTFs And Should Not Be Attempted Without The User's Permission Or Consent.
 
 >Note: Secrets Include Credentials, API Tokens, RSA Certificates etc...
