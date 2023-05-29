@@ -39,7 +39,7 @@ gitleaks detect -v
 
 ![4](https://github.com/theaqueen21/CI-CD-Pipeline-Poisoning/assets/94680549/54aa5647-5f21-4316-b209-d41dc997c4ab)
 
-As You Can See A PyPi API Token Was Found In This Attempt Along With Other Secrets
+As You Can See A PyPi API Token Was Found In This Attempt Along With Other Sensitive Information
 
 ![5](https://github.com/theaqueen21/CI-CD-Pipeline-Poisoning/assets/94680549/553c2279-d0e7-45f0-8787-b32858815e89)
 
