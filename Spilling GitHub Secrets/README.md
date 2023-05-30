@@ -8,13 +8,13 @@ Disclaimer: This Is Merely For Educational Purposes Or For Solving CTFs And Shou
 
 0. Clone The Target Repository
 
-```
+```shell
 git clone {Repository.git}
 ```
 
 1. Install GitLeaks Using apt
 
-```
+```shell
 sudo apt-get install gitleaks -y
 ```
 
@@ -22,7 +22,7 @@ sudo apt-get install gitleaks -y
 
 2. Run The Command Below In The Cloned Repository Folder
 
-```
+```shell
 gitleaks detect
 ``` 
 GitLeaks Automatically Looks For Leaks Or So Called Secrets In The Logs, Commits, And Files Of The Repository
@@ -33,7 +33,7 @@ GitLeaks Automatically Looks For Leaks Or So Called Secrets In The Logs, Commits
 
 3. If Leaks Are Found, Run The Command Below To Display The Leaks Or So Called Secrets
 
-```
+```shell
 gitleaks detect -v
 ```
 
